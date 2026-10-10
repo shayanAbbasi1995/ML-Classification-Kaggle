@@ -1,4 +1,4 @@
-# bgse-ml-classification: probability of death (MIMIC-III)
+# ML-Classification-Kaggle: probability of death (MIMIC-III)
 
 A 2026 rewrite of a Kaggle group project from the Barcelona Graduate School
 of Economics ML class (2021). The task is the [`probability-of-death-21`][kaggle]
