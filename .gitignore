@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual env / uv
+.venv/
+.python-version.local
+
+# Project data (gitignored by policy; the user must download it themselves)
+data/raw/
+data/processed/
+data/*.zip
+
+# MLflow local store
+mlruns/
+mlruns.db
+mlartifacts/
+
+# Submissions
+submissions/
+*.submission.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
